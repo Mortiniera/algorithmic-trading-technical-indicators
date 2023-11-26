@@ -30,6 +30,11 @@ You should see your talib version printed !
 Workaround reference link : https://github.com/TA-Lib/ta-lib-python/issues/408#issuecomment-855438491
 
 
-## MACD - Moving Average Convergence Divergence
+## 1. MACD - Moving Average Convergence Divergence
 
-<img src="../main/images/MACD_graphs.png">
+Python implementation of MACD indicators to understand their mecanism and how they can be useful for algorithmic trading using 
+data from Yahoo Finance API, with Google Stock.
+
+<img src="../main/images/MACD_plot.png">
+
+More details regarding the implementation at : https://github.com/Mortiniera/algorithmic-trading-technical-indicators/blob/main/MACD/Moving_Average_Convergence_Divergence.ipynb
