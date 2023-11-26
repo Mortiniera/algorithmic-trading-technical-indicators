@@ -38,3 +38,11 @@ data from Yahoo Finance API, with Google Stock.
 <img src="../main/images/MACD_plot.png">
 
 More details regarding the implementation at : https://github.com/Mortiniera/algorithmic-trading-technical-indicators/blob/main/MACD/Moving_Average_Convergence_Divergence.ipynb
+
+
+
+# References
+
+Thanks to Hanane D. for explanations and undersanding regarding algorithmic trading strategies.
+
+Reference : https://machinelearning-basics.com/blog/
