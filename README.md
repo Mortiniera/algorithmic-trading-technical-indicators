@@ -1,4 +1,4 @@
-# algorithmic-trading-technical-indicators
+# About
 Python implementation of some Momentum and Trend following technical indicators used by traders and investors in financial markets to analyze past market data and identify potential trends or patterns in the price and volume of an asset.
 Python implementations are double-checked and compared against Ta-lib implementations.
 
