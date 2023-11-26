@@ -35,7 +35,11 @@ Workaround reference link : https://github.com/TA-Lib/ta-lib-python/issues/408#i
 Python implementation of MACD indicators to understand their mecanism and how they can be useful for algorithmic trading using 
 data from Yahoo Finance API, with Google Stock.
 
-<img src="../main/images/MACD_plot.png">
+<img src="../main/images/MACD/fast_slow_ema.png">
+<img src="../main/images/MACD/buy_sell_signals.png">
+<img src="../main/images/MACD/bullish_bearish_signals.png">
+
+
 
 More details regarding the implementation at : https://github.com/Mortiniera/algorithmic-trading-technical-indicators/blob/main/MACD/Moving_Average_Convergence_Divergence.ipynb
 
