@@ -67,5 +67,8 @@ More details regarding the implementation at : https://github.com/Mortiniera/alg
 
 
 # References
-Reference : https://machinelearning-basics.com/blog/ for MACD explanations and implementation.
-Reference : https://www.investopedia.com/ for Performance metrics, backtests and all other financial instruments used
+References :
+
+- https://machinelearning-basics.com/blog/ for MACD explanations and implementation.
+
+- https://www.investopedia.com/ for Performance metrics, backtests and all other financial instruments used
